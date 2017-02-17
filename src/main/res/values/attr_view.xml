@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="baseView">
+
+        <attr name="cbx_bgColor" format="string"/>
+        <attr name="cbx_textColor" format="string"/>
+        <attr name="cbx_hintColor" format="string"/>
+        <attr name="cbx_text" format="string"/>
+        <attr name="cbx_hint" format="string"/>
+        <attr name="cbx_textSize" format="string"/>
+        <attr name="cbx_error" format="string" />
+        <attr name="cbx_customTypeface" format="string" />
+        <attr name="cbx_strokeColor" format="string"/>
+        <attr name="cbx_solidColor" format="string"/>
+        <attr name="cbx_strokeWidth" format="dimension" />
+        <attr name="cbx_cornerRadius" format="dimension" />
+
+        <attr name="cbx_charCounterEnabled" format="boolean"/>
+        <attr name="cbx_charCounterMaxLength" format="integer"/>
+        <attr name="cbx_switchTextPadding" format="string"/>
+        <attr name="cbx_thresholdCount" format="integer"/>
+        <attr name="cbx_numStars" format="integer"/>
+        <attr name="cbx_stepSize" format="float"/>
+        <attr name="cbx_rating" format="float"/>
+        <attr name="cbx_IsIndicator" format="boolean"/>
+        <attr name="cbx_seekbarThumbColor" format="string"/>
+        <attr name="cbx_seekbarProgressBarColor" format="string"/>
+        <attr name="cbx_seekbarSecondaryProgressBarColor" format="string"/>
+        <attr name="cbx_seekbarMax" format="integer"/>
+        <attr name="cbx_seekbarProgress" format="integer"/>
+        <attr name="cbx_seekbarSecProgress" format="integer"/>
+        <attr name="cbx_seekbarThumbWidth" format="integer"/>
+        <attr name="cbx_seekbarThumbHeight" format="integer"/>
+        <attr name="cbx_textOff" format="string"/>
+        <attr name="cbx_textOn" format="string"/>
+        <attr name="cbx_dividerColor" format="string"/>
+        <attr name="cbx_dividerHeight" format="string"/>
+        <attr name="cbx_numColumns" format="integer"/>
+        <attr name="cbx_columnWidth" format="string"/>
+        <attr name="cbx_horizontalSpacing" format="string"/>
+        <attr name="cbx_verticalSpacing" format="string"/>
+
+    </declare-styleable>
+
+
+</resources>

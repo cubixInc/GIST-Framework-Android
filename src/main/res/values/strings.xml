@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Gist</string>
+
+    <!--&lt;!&ndash; image picker  &ndash;&gt;
+    <string name="select_image_option">Choose</string>
+    <string name="txt_cancel">Cancel</string>
+    <string name="error_displaying_image">Error displaying image from autobackup-gallery</string>
+    <string-array name="camera_options_list">
+        <item>Camera</item>
+        <item>From Photo Library</item>
+    </string-array>
+    <string name="provide_file_storage_access">Please enable stoarge permission in app settings</string>
+    <string name="permission_denied">Permission Denied</string>-->
+
+    <!--&lt;!&ndash; Rate App &ndash;&gt;
+    <string name="new_rate_dialog_title">Rate Me!</string>
+    <string name="new_rate_dialog_never">Never</string>
+    <string name="new_rate_dialog_later">Later</string>
+    <string name="new_rate_dialog_ok">Rate</string>-->
+
+    <!--&lt;!&ndash; Location &ndash;&gt;
+    <string name="please_enable_gps_setting_msg">Please enable your GPS setting</string>
+    <string name="please_enable_your_location_msg">Please enable your location</string>
+    <string name="provide_location_access">Please provide permission for location</string>
+    <string name="txt_location_connection_failed">Location connection failed</string>
+    <string name="txt_unknown_location">UnKnown Location</string>
+    <string name="internet_connection_error">Internet Connection Error.</string>
+    <string name="unable_to_get_location">Unable to get location.Please try again later</string>-->
+
+    <!--&lt;!&ndash; InApp Billing &ndash;&gt;
+    <string name="google_play_add_account_msg">Please Add a Google Account</string>
+    <string name="google_play_problem_msg">"Problem setting up in-app billing: "</string>
+    <string name="unable_to_restore_package_item_not_found">Unable to restore item.Item not found</string>
+    <string name="unable_to_get_inventory_list">Unable to get inventory list</string>
+    <string name="unable_to_consume_item_does_not_purchased">Unable to Cosume item. Item not purchased</string>
+    <string name="item_already_purchased">Item Already Purchased</string>
+    <string name="google_play_purchasing_cancel_msg">Purchasing Cancel</string>
+    <string name="google_play_purchasing_error_msg">Unexpected error occurred . Please try again later</string>-->
+
+    <!--&lt;!&ndash;  &ndash;&gt;-->
+    <!--<string name="txt_open_with">Open with</string>-->
+    <!--<string name="txt_loading_page">Loading Page...</string>-->
+
+</resources>
